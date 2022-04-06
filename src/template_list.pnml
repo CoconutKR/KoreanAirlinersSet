@@ -6,4 +6,4 @@
 #include "template/purchase.pnml"
 
 // Locomotive and wagon
-#include "template/Vehicle_and_wagon.pnml"
+#include "template/Aircraft_template.pnml"

@@ -1,7 +1,18 @@
-##grflangid 0x3A
-##gender m f
+﻿##grflangid 0x3A
 
 # GRF name and description
-STR_GRF_NAME_WITH_VER                            :한국 항공기 세트 v{VERSION}
-STR_GRF_DESC                                     :한국 항공기 세트 입니다
-STR_GRF_URL                                      :https://github.com/KoreanGRF/KoreanEmptySet
+STR_GRF_NAME                                        :한국 항공기 세트
+STR_GRF_NAME_WITH_VER                               :한국 항공기 세트 {VERSION}
+STR_GRF_DESC                                        :(최근 업데이트: {RECENT_UPDATED}{}{}{SILVER} 코딩 : {}{ORANGE}경부라이너 {}{}{SILVER} 스프라이트 :{}{ORANGE} 경부라이너
+
+# Aircraft name
+STR_B737_800_NAME                                   :[KAS] 보잉 737-800
+
+# Parameters
+
+# Liveries
+STR_REFIT_LIVERY_Boeing_737_800_default             :(제조사)
+STR_REFIT_LIVERY_Boeing_737_800_jeju                :(제주항공)
+
+# Errors
+STR_ERROR_NO_ATTACH                                 :여기에 이 차량을 붙일 수 없습니다

@@ -1,7 +1,18 @@
-##grflangid 0x00
-
+﻿##grflangid 0x00
 
 # GRF name and description
-STR_GRF_NAME_WITH_VER                            :Korean Airliners Set v{VERSION}
-STR_GRF_DESC                                     :Korean Airliners Set
-STR_GRF_URL                                      :https://github.com/KoreanGRF/KoreanEmptySet
+STR_GRF_NAME                                        :Korean Airliners Set
+STR_GRF_NAME_WITH_VER                               :Korean Airliners Set {VERSION}
+STR_GRF_DESC                                        :(Updated: {RECENT_UPDATED}{}{}{SILVER} coded By : {}{ORANGE} GBLINER {}{} {SILVER} Sprite By :{}{ORANGE} GBLINER {}POKERFACE
+
+# Aircraft name
+STR_B737_800_NAME                                   :[KAS] 보잉 737-800
+
+# Parameters
+
+# Liveries
+STR_REFIT_LIVERY_Boeing_737_800_default             :(Manufacturers)
+STR_REFIT_LIVERY_Boeing_737_800_jeju                :(JEJUair)
+
+# Errors
+STR_ERROR_NO_ATTACH                                 :You can't attach this car here
