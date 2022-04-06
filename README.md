@@ -22,5 +22,3 @@
 ## 저작권
 이 NewGRF는 크리에이티브 커먼스 라이선스 v3.0 (CC-BY-NC-SA v3.0)을 따릅니다. <br>
 이 프로젝트에 기여함은 이 라이선스에 동의함을 의미합니다.
-
-![Load_Map](https://github.com/GBLINER/KoreanCommercialvehicleSet/blob/main/logo/1.png?raw=true)
