@@ -13,6 +13,7 @@ STR_B737_800_NAME                                   :[KAS] 보잉 737-800
 # Liveries
 STR_REFIT_LIVERY_Boeing_737_800_default             :(제조사)
 STR_REFIT_LIVERY_Boeing_737_800_jeju                :(제주항공)
+STR_REFIT_LIVERY_Boeing_737_800_jin                 :(진에어)
 
 # Errors
 STR_ERROR_NO_ATTACH                                 :여기에 이 차량을 붙일 수 없습니다
