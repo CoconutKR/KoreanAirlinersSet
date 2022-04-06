@@ -20,7 +20,6 @@ item(FEAT_AIRCRAFT, B737_800){
                 
         //spec
         speed:                          965km/h;
-        range:                          2894;
         
         //Model
         model_life:                     VEHICLE_NEVER_EXPIRES;

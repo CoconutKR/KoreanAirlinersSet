@@ -11,5 +11,5 @@ template tmpl_purchase_detail(x, y, w, h, offX, offY) {
 }
 
 template tmpl_purchase(x, y) {
-    tmpl_purchase_detail(x, y, 31, 13, -14, -8)
+    tmpl_purchase_detail(x+290, y, 46, 25, -20, -12)
 }
