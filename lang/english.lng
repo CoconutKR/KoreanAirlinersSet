@@ -17,6 +17,7 @@ STR_REFIT_LIVERY_Boeing_737_800_tway                :(T'way Air)
 STR_REFIT_LIVERY_Boeing_737_800_jin                 :(JIN AIR)
 STR_REFIT_LIVERY_Boeing_737_800_korean              :(KOREAN AIR)
 STR_REFIT_LIVERY_Boeing_737_800_gangwon             :(FLY GANGWON)
+STR_REFIT_LIVERY_Boeing_737_800_eastar              :(EASTAR JET)
 
 # Errors
 STR_ERROR_NO_ATTACH                                 :You can't attach this car here

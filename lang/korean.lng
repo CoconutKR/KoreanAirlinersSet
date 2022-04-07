@@ -17,6 +17,8 @@ STR_REFIT_LIVERY_Boeing_737_800_tway                :(티웨이항공)
 STR_REFIT_LIVERY_Boeing_737_800_jin                 :(진에어)
 STR_REFIT_LIVERY_Boeing_737_800_korean              :(대한항공)
 STR_REFIT_LIVERY_Boeing_737_800_gangwon             :(플라이강원)
+STR_REFIT_LIVERY_Boeing_737_800_eastar              :(이스타항공)
+
 
 # Errors
 STR_ERROR_NO_ATTACH                                 :여기에 이 차량을 붙일 수 없습니다
