@@ -26,7 +26,19 @@ spriteset(set_B737_800_jeju, "src\Aircraft\Boeing\B737_800\B737_800_jeju.png"){
 }
 
 /*--------------------------------------------------------------------
-3. 보잉 737-800 진에어
+3. 보잉 737-800 티웨이
+--------------------------------------------------------------------*/
+
+spriteset(set_B737_800_tway, "src\Aircraft\Boeing\B737_800\B737_800.png"){
+    Aircraft(0, 0)
+}
+
+alternative_sprites(set_B737_800_tway, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src\Aircraft\Boeing\B737_800\B737_800_tway.png"){
+    Aircraft(0, 0)
+}
+
+/*--------------------------------------------------------------------
+4. 보잉 737-800 진에어
 --------------------------------------------------------------------*/
 
 spriteset(set_B737_800_jin, "src\Aircraft\Boeing\B737_800\B737_800.png"){
@@ -38,14 +50,14 @@ alternative_sprites(set_B737_800_jin, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src\A
 }
 
 /*--------------------------------------------------------------------
-4. 보잉 737-800 진에어
+5. 보잉 737-800 대한항공
 --------------------------------------------------------------------*/
 
-spriteset(set_B737_800_tway, "src\Aircraft\Boeing\B737_800\B737_800.png"){
+spriteset(set_B737_800_korean, "src\Aircraft\Boeing\B737_800\B737_800.png"){
     Aircraft(0, 0)
 }
 
-alternative_sprites(set_B737_800_tway, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src\Aircraft\Boeing\B737_800\B737_800_tway.png"){
+alternative_sprites(set_B737_800_korean, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src\Aircraft\Boeing\B737_800\B737_800_korean.png"){
     Aircraft(0, 0)
 }
 

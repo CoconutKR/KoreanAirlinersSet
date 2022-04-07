@@ -13,8 +13,9 @@ STR_B737_800_NAME                                   :[KAS] 보잉 737-800
 # Liveries
 STR_REFIT_LIVERY_Boeing_737_800_default             :(Manufacturers)
 STR_REFIT_LIVERY_Boeing_737_800_jeju                :(JEJUair)
-STR_REFIT_LIVERY_Boeing_737_800_jin                 :(JIN AIR)
 STR_REFIT_LIVERY_Boeing_737_800_tway                :(T'way Air)
+STR_REFIT_LIVERY_Boeing_737_800_jin                 :(JIN AIR)
+STR_REFIT_LIVERY_Boeing_737_800_korean              :(KOREAN AIR)
 
 # Errors
 STR_ERROR_NO_ATTACH                                 :You can't attach this car here
