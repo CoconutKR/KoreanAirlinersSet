@@ -62,6 +62,18 @@ alternative_sprites(set_B737_800_korean, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "sr
 }
 
 /*--------------------------------------------------------------------
+6. 보잉 737-800 플라이강원
+--------------------------------------------------------------------*/
+
+spriteset(set_B737_800_gangwon, "src\Aircraft\Boeing\B737_800\B737_800.png"){
+    Aircraft(0, 0)
+}
+
+alternative_sprites(set_B737_800_gangwon, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src\Aircraft\Boeing\B737_800\B737_800_gangwon.png"){
+    Aircraft(0, 0)
+}
+
+/*--------------------------------------------------------------------
 구매정보
 --------------------------------------------------------------------*/
 switch(FEAT_TRAINS, SELF, sw_B737_800_purchase, cargo_subtype) {
