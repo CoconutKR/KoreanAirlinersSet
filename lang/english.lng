@@ -6,7 +6,7 @@ STR_GRF_NAME_WITH_VER                               :Korean Airliners Set {VERSI
 STR_GRF_DESC                                        :(Updated: {RECENT_UPDATED}{}{}{SILVER} coded By : {}{ORANGE} GBLINER {}{} {SILVER} Sprite By :{}{ORANGE} GBLINER {}POKERFACE
 
 # Aircraft name
-STR_B737_800_NAME                                   :[KAS] 보잉 737-800
+STR_B737_800_NAME                                   :[KAS] Boeing 737-800
 
 # Parameters
 

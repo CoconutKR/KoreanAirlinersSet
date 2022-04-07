@@ -14,7 +14,7 @@ item(FEAT_AIRCRAFT, B737_800){
     property {
         name:                           string(STR_B737_800_NAME, 7001);
         climates_available:             ALL_CLIMATES;
-        introduction_date:              date(1997, 1, 1);
+        introduction_date:              date(1998, 1, 1);
         aircraft_type:                  AIRCRAFT_TYPE_SMALL;
         sprite_id:                      SPRITE_ID_NEW_AIRCRAFT;
                 
@@ -47,8 +47,8 @@ item(FEAT_AIRCRAFT, B737_800){
         default:                        sw_B737_800;
         purchase:                       sw_B737_800_purchase;
         loading_speed:                  25;
-        cost_factor:                    10;
-        running_cost_factor:            150;
+        cost_factor:                    300;
+        running_cost_factor:            1000;
         cargo_subtype_text:             sw_Boeing_737_800_cargo_subtype_text;
         }
 }
