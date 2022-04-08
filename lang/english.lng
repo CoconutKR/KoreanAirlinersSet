@@ -21,6 +21,7 @@ STR_REFIT_LIVERY_Boeing_737_800_gangwon             :(FLY GANGWON)
 STR_REFIT_LIVERY_Boeing_737_800_eastar              :(EASTAR JET)
 STR_REFIT_LIVERY_Airbus_A321_200_default            :(Manufacturers)
 STR_REFIT_LIVERY_Airbus_A321_200_asiana             :(ASIANA AIRLINES)
+STR_REFIT_LIVERY_Airbus_A321_200_seoul              :(AIR SEOUL)
 
 # Errors
 STR_ERROR_NO_ATTACH                                 :You can't attach this car here
