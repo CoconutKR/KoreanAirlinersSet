@@ -14,5 +14,5 @@
 
 ## 저작권
 이 NewGRF는 General Public License v3 라이선스를 따릅니다. (GPLv3) <br>
-이 프로젝트에 기여함은 이 라이선스에 동의함을 의미합니다.
-스프라이트의 일부는 [World Airliners Set](https://www.tt-forums.net/viewtopic.php?t=39227)에서 발췌하였습니다.
+이 프로젝트에 기여함은 이 라이선스에 동의함을 의미합니다. <br>
+스프라이트의 일부는 [World Airliners Set](https://www.tt-forums.net/viewtopic.php?t=39227)에서 발췌하였으며 WAS의 라이선스 GPL v3를 사용합니다.
