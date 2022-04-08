@@ -10,6 +10,10 @@ template tmpl_purchase_detail(x, y, w, h, offX, offY) {
     [   0,    0,    1,    1,    0,    0]
 }
 
-template tmpl_purchase(x, y) {
+template tmpl_B737_800_purchase(x, y) {
     tmpl_purchase_detail(x+290, y, 46, 25, -20, -12)
+}
+
+template tmpl_A321_200_purchase(x, y) {
+    tmpl_purchase_detail(x+310, y, 50, 23, -20, -12)
 }

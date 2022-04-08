@@ -7,6 +7,7 @@ STR_GRF_DESC                                        :(Updated: {RECENT_UPDATED}{
 
 # Aircraft name
 STR_B737_800_NAME                                   :[KAS] Boeing 737-800
+STR_A321_200_NAME                                   :[KAS] Airbus A321-200
 
 # Parameters
 
@@ -18,6 +19,8 @@ STR_REFIT_LIVERY_Boeing_737_800_jin                 :(JIN AIR)
 STR_REFIT_LIVERY_Boeing_737_800_korean              :(KOREAN AIR)
 STR_REFIT_LIVERY_Boeing_737_800_gangwon             :(FLY GANGWON)
 STR_REFIT_LIVERY_Boeing_737_800_eastar              :(EASTAR JET)
+STR_REFIT_LIVERY_Airbus_A321_200_default            :(Manufacturers)
+STR_REFIT_LIVERY_Airbus_A321_200_asiana             :(ASIANA AIRLINES)
 
 # Errors
 STR_ERROR_NO_ATTACH                                 :You can't attach this car here

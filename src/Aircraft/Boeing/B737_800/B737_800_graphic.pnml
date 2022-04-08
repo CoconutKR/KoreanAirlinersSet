@@ -6,7 +6,7 @@ Graphics
 구매정보
 --------------------------------------------------------------------*/
 spriteset(set_B737_800_purchase, "src\Aircraft\Boeing\B737_800\B737_800.png"){
-    tmpl_purchase(0, 0)
+    tmpl_B737_800_purchase(0, 0)
 }
 
 /*--------------------------------------------------------------------
@@ -14,7 +14,7 @@ spriteset(set_B737_800_purchase, "src\Aircraft\Boeing\B737_800\B737_800.png"){
 --------------------------------------------------------------------*/
 
 spriteset(set_B737_800, "src\Aircraft\Boeing\B737_800\B737_800.png"){
-    Aircraft(0, 0)
+    tp_B737_800(0, 0)
 }
 
 /*--------------------------------------------------------------------
@@ -22,7 +22,7 @@ spriteset(set_B737_800, "src\Aircraft\Boeing\B737_800\B737_800.png"){
 --------------------------------------------------------------------*/
 
 spriteset(set_B737_800_jeju, "src\Aircraft\Boeing\B737_800\B737_800_jeju.png"){
-    Aircraft(0, 0)
+    tp_B737_800(0, 0)
 }
 
 /*--------------------------------------------------------------------
@@ -30,11 +30,11 @@ spriteset(set_B737_800_jeju, "src\Aircraft\Boeing\B737_800\B737_800_jeju.png"){
 --------------------------------------------------------------------*/
 
 spriteset(set_B737_800_tway, "src\Aircraft\Boeing\B737_800\B737_800.png"){
-    Aircraft(0, 0)
+    tp_B737_800(0, 0)
 }
 
 alternative_sprites(set_B737_800_tway, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src\Aircraft\Boeing\B737_800\B737_800_tway.png"){
-    Aircraft(0, 0)
+    tp_B737_800(0, 0)
 }
 
 /*--------------------------------------------------------------------
@@ -42,11 +42,11 @@ alternative_sprites(set_B737_800_tway, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src\
 --------------------------------------------------------------------*/
 
 spriteset(set_B737_800_jin, "src\Aircraft\Boeing\B737_800\B737_800.png"){
-    Aircraft(0, 0)
+    tp_B737_800(0, 0)
 }
 
 alternative_sprites(set_B737_800_jin, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src\Aircraft\Boeing\B737_800\B737_800_jin.png"){
-    Aircraft(0, 0)
+    tp_B737_800(0, 0)
 }
 
 /*--------------------------------------------------------------------
@@ -54,11 +54,11 @@ alternative_sprites(set_B737_800_jin, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src\A
 --------------------------------------------------------------------*/
 
 spriteset(set_B737_800_korean, "src\Aircraft\Boeing\B737_800\B737_800.png"){
-    Aircraft(0, 0)
+    tp_B737_800(0, 0)
 }
 
 alternative_sprites(set_B737_800_korean, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src\Aircraft\Boeing\B737_800\B737_800_korean.png"){
-    Aircraft(0, 0)
+    tp_B737_800(0, 0)
 }
 
 /*--------------------------------------------------------------------
@@ -66,11 +66,11 @@ alternative_sprites(set_B737_800_korean, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "sr
 --------------------------------------------------------------------*/
 
 spriteset(set_B737_800_gangwon, "src\Aircraft\Boeing\B737_800\B737_800.png"){
-    Aircraft(0, 0)
+    tp_B737_800(0, 0)
 }
 
 alternative_sprites(set_B737_800_gangwon, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src\Aircraft\Boeing\B737_800\B737_800_gangwon.png"){
-    Aircraft(0, 0)
+    tp_B737_800(0, 0)
 }
 
 /*--------------------------------------------------------------------
@@ -78,11 +78,11 @@ alternative_sprites(set_B737_800_gangwon, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "s
 --------------------------------------------------------------------*/
 
 spriteset(set_B737_800_eastar, "src\Aircraft\Boeing\B737_800\B737_800.png"){
-    Aircraft(0, 0)
+    tp_B737_800(0, 0)
 }
 
 alternative_sprites(set_B737_800_eastar, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src\Aircraft\Boeing\B737_800\B737_800_eastar.png"){
-    Aircraft(0, 0)
+    tp_B737_800(0, 0)
 }
 
 /*--------------------------------------------------------------------
