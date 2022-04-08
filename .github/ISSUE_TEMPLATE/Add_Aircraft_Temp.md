@@ -1,7 +1,7 @@
 ---
 name: "[항공기추가]"
 about: 새로운 차량 추가시 적용할 템플릿입니다.
-title: "[항공기추가] 차량이름"
+title: "[항공기추가] 항공기이름"
 labels: Add Aircraft
 assignees: ''
 
