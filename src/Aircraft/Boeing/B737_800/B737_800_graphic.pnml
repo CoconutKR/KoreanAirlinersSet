@@ -21,7 +21,11 @@ spriteset(set_B737_800, "src\Aircraft\Boeing\B737_800\B737_800.png"){
 2. 보잉 737-800 제주항공
 --------------------------------------------------------------------*/
 
-spriteset(set_B737_800_jeju, "src\Aircraft\Boeing\B737_800\B737_800_jeju.png"){
+spriteset(set_B737_800_jeju, "src\Aircraft\Boeing\B737_800\B737_800.png"){
+    tp_B737_800(0, 0)
+}
+
+alternative_sprites(set_B737_800_jeju, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src\Aircraft\Boeing\B737_800\B737_800_jeju.png"){
     tp_B737_800(0, 0)
 }
 
