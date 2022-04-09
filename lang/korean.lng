@@ -22,6 +22,7 @@ STR_REFIT_LIVERY_Boeing_737_800_eastar              :(이스타항공)
 STR_REFIT_LIVERY_Airbus_A321_200_default            :(제조사)
 STR_REFIT_LIVERY_Airbus_A321_200_asiana             :(아시아나항공)
 STR_REFIT_LIVERY_Airbus_A321_200_seoul              :(에어서울)
+STR_REFIT_LIVERY_Airbus_A321_200_busan              :(에어부산)
 
 # Errors
 STR_ERROR_NO_ATTACH                                 :여기에 이 차량을 붙일 수 없습니다

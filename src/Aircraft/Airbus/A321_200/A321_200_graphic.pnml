@@ -42,6 +42,18 @@ alternative_sprites(set_A321_200_seoul, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src
 }
 
 /*--------------------------------------------------------------------
+3. 에어버스 A321-200 에어부산
+--------------------------------------------------------------------*/
+
+spriteset(set_A321_200_busan, "src\Aircraft\Airbus\A321_200\A321_200.png"){
+    tp_A321_200(0, 0)
+}
+
+alternative_sprites(set_A321_200_busan, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src\Aircraft\Airbus\A321_200\A321_200_Busan.png"){
+    tp_A321_200(0, 0)
+}
+
+/*--------------------------------------------------------------------
 구매정보
 --------------------------------------------------------------------*/
 switch(FEAT_TRAINS, SELF, sw_A321_200_purchase, cargo_subtype) {
