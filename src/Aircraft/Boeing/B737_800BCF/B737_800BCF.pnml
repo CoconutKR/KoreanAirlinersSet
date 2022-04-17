@@ -2,19 +2,19 @@
 B737-800
 --------------------------------------------------------------------*/
 // Graphics
-#include "B737_800_graphic.pnml"
+#include "B737_800BCF_graphic.pnml"
 
 // Switch
-#include "B737_800_switch.pnml"
+#include "B737_800BCF_switch.pnml"
 
 /*--------------------------------------------------------------------
 항공기정보
 --------------------------------------------------------------------*/
-item(FEAT_AIRCRAFT, B737_800){
+item(FEAT_AIRCRAFT, B737_800BCF){
     property {
-        name:                           string(STR_B737_800_NAME, 7001);
+        name:                           string(STR_B737_800BCF_NAME, 7003);
         climates_available:             ALL_CLIMATES;
-        introduction_date:              date(1998, 1, 1);
+        introduction_date:              date(2016, 1, 1);
         aircraft_type:                  AIRCRAFT_TYPE_SMALL;
         sprite_id:                      SPRITE_ID_NEW_AIRCRAFT;
                 
@@ -28,12 +28,12 @@ item(FEAT_AIRCRAFT, B737_800){
         reliability_decay:              0;
         
         //Cargo
-        passenger_capacity:             189;
-        mail_capacity:                  19;    
-        acceleration:                   80; 
+        passenger_capacity:             0;
+        mail_capacity:                  0;    
+        acceleration:                   27; 
         refittable_cargo_classes:       NO_CARGO_CLASS;
         non_refittable_cargo_classes:   NO_CARGO_CLASS;
-        cargo_allow_refit:              [PASS];
+        cargo_allow_refit:              [COAL, MAIL, OIL_, LVST, GOOD, GRAI, WOOD, IORE, STEL, VALU, PAPR, WHEA, FOOD, GOLD, RUBR, FRUT, MAIZ, CORE, WATR, DIAM, SUGR, BATT, BUBL, COLA, CTCD, FZDR, PLST, SWET, TOFF, TOYS, AORE, RCYC, SGBT, FICR, MNSP, METL, ACID, BEER, STAL, ALUM, NH3_, BEAN, BDMT, CBLK, STCB, CASS, CSTI, CMNT, RFPR, CHLO, CLAY, SOAP, CTAR, JAVA, COKE, COPR, EOIL, POWR, ENSP, BOOM, FMSP, FECR, FERT, FISH, GLAS, KAOL, LIME, MNO2, MILK, NITR, NUTS, O2__, COAT, PEAT, PETR, PHOS, IRON, PIPE, PLAS, POTA, PORE, QLME, SALT, SAND, SCMT, SLAG, SASH, LYE_, STST, STSE, STSH, STWR, GRVL, SULP, WDPR, TYRE, VBOD, VENG, VPTS, VEHI, WOOL, ZINC];
         cargo_disallow_refit:           [];
         
         //Costs
@@ -44,11 +44,12 @@ item(FEAT_AIRCRAFT, B737_800){
         }
         
     graphics {
-        default:                        sw_B737_800;
-        purchase:                       sw_B737_800_purchase;
+        default:                        sw_B737_800BCF;
+        purchase:                       sw_B737_800BCF_purchase;
         loading_speed:                  25;
+        mail_capacity:                  return 400;
         cost_factor:                    300;
         running_cost_factor:            1000;
-        cargo_subtype_text:             sw_Boeing_737_800_cargo_subtype_text;
+        cargo_subtype_text:             sw_Boeing_737_800BCF_cargo_subtype_text;
         }
 }

@@ -30,7 +30,7 @@ item(FEAT_AIRCRAFT, B737_800){
         //Cargo
         passenger_capacity:             189;
         mail_capacity:                  19;    
-        acceleration:                   80; 
+        acceleration:                   27; 
         refittable_cargo_classes:       NO_CARGO_CLASS;
         non_refittable_cargo_classes:   NO_CARGO_CLASS;
         cargo_allow_refit:              [PASS];
