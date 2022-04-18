@@ -17,3 +17,7 @@ template tmpl_B737_800_purchase(x, y) {
 template tmpl_A321_200_purchase(x, y) {
     tmpl_purchase_detail(x+310, y, 50, 23, -20, -12)
 }
+
+template tmpl_A330_300_purchase(x, y) {
+    tmpl_purchase_detail(x+414, y, 69, 34, -35, -17)
+}
