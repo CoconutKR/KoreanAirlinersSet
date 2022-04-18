@@ -1,7 +1,7 @@
 //Aircraft
 
 #include "Aircraft/Boeing/B737_800/B737_800.pnml"          //7001
+#include "Aircraft/Boeing/B737_800BCF/B737_800BCF.pnml"    //7003
 #include "Aircraft/Airbus/A321_200/A321_200.pnml"          //7002
-#include "Aircraft/Boeing/B737_800BCF/B737_800BCF.pnml"       //7003
 
 // Sorting
