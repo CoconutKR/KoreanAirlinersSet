@@ -9,9 +9,6 @@
 터미널 쉘에서 ``make``를 실행하세요. Windows 환경이라면, 그 전에 명령 프롬포트를 열고 ``bash``를 입력하세요.  
 ``make clean``을 입력하면 모든 생성된 파일이 초기화됩니다.
 
-## 커뮤니티
-[![디스코드로고](https://github.com/evepoi/YST/blob/minengallery/docs/img/discord_logo.png)](https://discord.gg/WNrjUatFkz)
-
 ## 저작권
 이 NewGRF는 [General Public License v3](https://www.gnu.org/licenses/gpl-3.0.html) 라이선스를 따릅니다. (GPLv3) <br>
 이 프로젝트에 기여함은 이 라이선스에 동의함을 의미합니다. <br>
