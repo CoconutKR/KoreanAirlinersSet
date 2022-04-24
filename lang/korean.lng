@@ -8,6 +8,7 @@ STR_GRF_DESC                                        :{BLACK}한국 항공기 세
 # Aircraft name
 STR_B737_800_NAME                                   :[KAS] 보잉 737-800
 STR_B737_800BCF_NAME                                :[KAS] 보잉 737-800 BCF
+STR_B777_200ER_NAME                                 :[KAS] 보잉 777-200ER
 STR_A321_200_NAME                                   :[KAS] 에어버스 A321-200
 STR_A330_300_NAME                                   :[KAS] 에어버스 A330-300
 
@@ -31,6 +32,10 @@ STR_REFIT_LIVERY_Airbus_A330_300_default            :(제조사)
 STR_REFIT_LIVERY_Airbus_A330_300_korean             :(대한항공)
 STR_REFIT_LIVERY_Airbus_A330_300_asiana             :(아시아나항공)
 STR_REFIT_LIVERY_Airbus_A330_300_tway               :(티웨이항공)
+STR_REFIT_LIVERY_Boeing_777_200ER_default           :(제조사)
+STR_REFIT_LIVERY_Boeing_777_200ER_korean            :(대한항공)
+STR_REFIT_LIVERY_Boeing_777_200ER_asiana            :(아시아나항공)
+STR_REFIT_LIVERY_Boeing_777_200ER_jin               :(진에어)
 
 # Errors
 STR_ERROR_NO_ATTACH                                 :여기에 이 차량을 붙일 수 없습니다
