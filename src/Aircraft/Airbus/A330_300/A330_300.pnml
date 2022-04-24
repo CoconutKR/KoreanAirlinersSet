@@ -10,9 +10,9 @@ A321-200
 /*--------------------------------------------------------------------
 항공기정보
 --------------------------------------------------------------------*/
-item(FEAT_AIRCRAFT, A330_300){
+item(FEAT_AIRCRAFT, A330_300, 7005){
     property {
-        name:                           string(STR_A330_300_NAME, 7005);
+        name:                           string(STR_A330_300_NAME);
         climates_available:             ALL_CLIMATES;
         introduction_date:              date(1994, 1, 1);
         aircraft_type:                  AIRCRAFT_TYPE_LARGE;

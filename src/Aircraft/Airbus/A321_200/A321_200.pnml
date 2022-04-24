@@ -10,9 +10,9 @@ A321-200
 /*--------------------------------------------------------------------
 항공기정보
 --------------------------------------------------------------------*/
-item(FEAT_AIRCRAFT, A321_200){
+item(FEAT_AIRCRAFT, A321_200, 7002){
     property {
-        name:                           string(STR_A321_200_NAME, 7002);
+        name:                           string(STR_A321_200_NAME);
         climates_available:             ALL_CLIMATES;
         introduction_date:              date(1994, 1, 1);
         aircraft_type:                  AIRCRAFT_TYPE_SMALL;

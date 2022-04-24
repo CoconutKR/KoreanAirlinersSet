@@ -10,9 +10,9 @@ B737-800
 /*--------------------------------------------------------------------
 항공기정보
 --------------------------------------------------------------------*/
-item(FEAT_AIRCRAFT, B737_800){
+item(FEAT_AIRCRAFT, B737_800, 7001){
     property {
-        name:                           string(STR_B737_800_NAME, 7001);
+        name:                           string(STR_B737_800_NAME);
         climates_available:             ALL_CLIMATES;
         introduction_date:              date(1998, 1, 1);
         aircraft_type:                  AIRCRAFT_TYPE_SMALL;
