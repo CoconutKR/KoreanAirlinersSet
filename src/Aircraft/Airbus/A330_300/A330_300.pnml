@@ -48,7 +48,7 @@ item(FEAT_AIRCRAFT, A330_300, 7005){
         purchase:                       sw_A330_300_purchase;
         loading_speed:                  43;
         cost_factor:                    830;
-        running_cost_factor:            1000;
+        running_cost_factor:            120;
         cargo_subtype_text:             sw_Airbus_A330_300_cargo_subtype_text;
         }
 }

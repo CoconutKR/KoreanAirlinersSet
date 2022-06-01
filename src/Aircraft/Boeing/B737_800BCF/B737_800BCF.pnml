@@ -49,7 +49,7 @@ item(FEAT_AIRCRAFT, B737_800BCF, 7003){
         loading_speed:                  25;
         mail_capacity:                  return 400;
         cost_factor:                    300;
-        running_cost_factor:            1000;
+        running_cost_factor:            120;
         cargo_subtype_text:             sw_Boeing_737_800BCF_cargo_subtype_text;
         }
 }

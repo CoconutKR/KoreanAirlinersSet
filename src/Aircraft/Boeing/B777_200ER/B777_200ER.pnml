@@ -48,7 +48,7 @@ item(FEAT_AIRCRAFT, B777_200ER, 7004){
         purchase:                       sw_B777_200ER_purchase;
         loading_speed:                  26;
         cost_factor:                    890;
-        running_cost_factor:            1000;
+        running_cost_factor:            120;
         cargo_subtype_text:             sw_Boeing_777_200ER_cargo_subtype_text;
         }
 }
