@@ -6,7 +6,7 @@
 게임 내 온라인 콘텐츠에서 다운로드하거나, [Github release 페이지](https://github.com/GBLINER/KoreanAirlinersSet/releases)에서 다운로드할 수 있습니다.
 
 ## 차량 목록 및 스펙
-차후 
+차후 작성예정
 
 ## 개발
 ### 빌드하는 방법
