@@ -5,7 +5,9 @@
 **한국항공기세트**는 한국의 민간 항공기를 추가해주는 OpenTTD NewGRF입니다.  
 게임 내 온라인 콘텐츠에서 다운로드하거나, [Github release 페이지](https://github.com/GBLINER/KoreanAirlinersSet/releases)에서 다운로드할 수 있습니다.
 
-## 차량 목록 및 스펙
+## 항공기 목록 및 스펙
+
+![항공기목록](https://user-images.githubusercontent.com/85421764/172055076-7c7469a1-b287-4f27-808f-28c400ea8db3.png)
 
 ## 개발
 ### 빌드하는 방법
