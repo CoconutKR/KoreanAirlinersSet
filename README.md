@@ -1,6 +1,6 @@
 # Korean Airliners Set 한국항공기세트
 
-![KAS소개사진](https://user-images.githubusercontent.com/85421764/172053676-1d1bf879-ed29-4bc5-abd1-f0131abdf4c9.png)
+![KAS소개](https://user-images.githubusercontent.com/85421764/172053986-0df1589d-7b6a-4725-a518-f56391eadf03.png)
 
 **한국항공기세트**는 한국의 민간 항공기를 추가해주는 OpenTTD NewGRF입니다.  
 게임 내 온라인 콘텐츠에서 다운로드하거나, [Github release 페이지](https://github.com/GBLINER/KoreanAirlinersSet/releases)에서 다운로드할 수 있습니다.
