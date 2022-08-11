@@ -29,3 +29,11 @@ template tmpl_B777_200ER_purchase(x, y) {
 template tmpl_B787_9_purchase(x, y) {
     tmpl_purchase_detail(x+364, y, 63, 30, -32, -18)
 }
+
+template tmpl_A320_200_purchase(x, y) {
+    tmpl_purchase_detail(x+310, y, 48, 23, -22, -11)
+}
+
+template tmpl_ATR_72_500_purchase(x, y) {
+    tmpl_purchase_detail(x+282, y, 50, 23, -25,	-12)
+}
