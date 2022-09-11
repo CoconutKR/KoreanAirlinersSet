@@ -8,8 +8,8 @@ grf {
 	grfid: "KARS";
 	name: string(STR_GRF_NAME_WITH_VER);
 	desc: string(STR_GRF_DESC);
-	version: 20220812;
-	min_compatible_version: 3;
+	version: 20220911;
+	min_compatible_version: 20220812;
 }
 
 // 화물테이블
