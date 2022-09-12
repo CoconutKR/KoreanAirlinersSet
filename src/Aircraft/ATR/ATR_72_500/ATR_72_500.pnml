@@ -47,7 +47,7 @@ item(FEAT_AIRCRAFT, ATR_72_500, 7008){
         default:                        sw_ATR_72_500;
         purchase:                       sw_ATR_72_500_purchase;
         loading_speed:                  43;
-        cost_factor:                    830;
+        cost_factor:                    55;
         running_cost_factor:            120;
         cargo_subtype_text:             sw_ATR_72_500_cargo_subtype_text;
         }

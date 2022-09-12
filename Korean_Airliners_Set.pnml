@@ -8,7 +8,7 @@ grf {
 	grfid: "KARS";
 	name: string(STR_GRF_NAME_WITH_VER);
 	desc: string(STR_GRF_DESC);
-	version: 20220911;
+	version: 20220912;
 	min_compatible_version: 20220812;
 }
 

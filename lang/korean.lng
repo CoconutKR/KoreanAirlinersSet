@@ -10,9 +10,11 @@ STR_B737_800_NAME                                   :[KAS] 보잉 737-800
 STR_B737_800BCF_NAME                                :[KAS] 보잉 737-800 BCF
 STR_B777_200ER_NAME                                 :[KAS] 보잉 777-200ER
 STR_B787_9_NAME                                     :[KAS] 보잉 787-9 드림라이너
+STR_B747_400_NAME                                   :[KAS] 보잉 747-400
 STR_A320_200_NAME                                   :[KAS] 에어버스 A320-200
 STR_A321_200_NAME                                   :[KAS] 에어버스 A321-200
 STR_A330_300_NAME                                   :[KAS] 에어버스 A330-300
+STR_A380_800_NAME                                   :[KAS] 에어버스 A380-800
 STR_ATR_72_500_NAME                                 :[KAS] ATR 72-500
 STR_DC_9_30_NAME                                    :[KAS] 맥도넬 더글라스 DC-9-30
 
@@ -53,6 +55,12 @@ STR_REFIT_LIVERY_ATR_72_500_hiair_p                 :(하이에어 - 분홍)
 STR_REFIT_LIVERY_ATR_72_500_hiair_g                 :(하이에어 - 초록)
 STR_REFIT_LIVERY_DC_9_30_default                    :(제조사)
 STR_REFIT_LIVERY_DC_9_30_korean                     :(대한항공)
+STR_REFIT_LIVERY_Airbus_A380_800_default            :(제조사)
+STR_REFIT_LIVERY_Airbus_A380_800_korean             :(대한항공)
+STR_REFIT_LIVERY_Airbus_A380_800_asiana             :(아시아나항공)
+STR_REFIT_LIVERY_Boeing_747_400_default             :(제조사)
+STR_REFIT_LIVERY_Boeing_747_400_korean              :(대한항공)
+STR_REFIT_LIVERY_Boeing_747_400_asiana              :(아시아나항공)
 
 # Errors
 STR_ERROR_NO_ATTACH                                 :여기에 이 차량을 붙일 수 없습니다
