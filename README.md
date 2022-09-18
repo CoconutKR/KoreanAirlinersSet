@@ -12,7 +12,7 @@
 ``make clean``을 입력하면 모든 생성된 파일이 초기화됩니다.
 
 ## 기여하신 분들
-
+모든 기여하신 분들의 이름은 [Contributors List](https://github.com/GBLINER/KoreanAirlinersSet/wiki/Contributors-List-%EA%B8%B0%EC%97%AC%EC%9E%90-%EB%AA%A9%EB%A1%9D)에서 볼 수 있습니다.
 ## 저작권 / License
 이 NewGRF는 **[General Public License v3](https://www.gnu.org/licenses/gpl-3.0.html)** 를 따릅니다. (GPLv3) <br>
 이 프로젝트에 기여함은 이 라이선스에 동의함을 의미합니다. <br>
