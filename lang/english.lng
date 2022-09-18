@@ -2,7 +2,7 @@
 
 # GRF name and description
 STR_GRF_NAME                                        :Korean Airliners Set
-STR_GRF_NAME_WITH_VER                               :Korean Airliners Set v{VERSION}
+STR_GRF_NAME_WITH_VER                               :Korean Airliners Set 1.2.1
 STR_GRF_DESC                                        :{BLACK}Korean Airliners Set adds Airliners of korea. This NewGRF has been modified based on the World Airliners Set.{}Most graphics originally from PikkaBirds AV8 Set or WAS.{}(Updated: {RECENT_UPDATED}){}{SILVER}+ Author: GBLINER
 
 # Aircraft name
