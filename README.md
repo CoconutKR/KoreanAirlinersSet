@@ -2,7 +2,7 @@
 
 ![KAS 소개](https://user-images.githubusercontent.com/85421764/172054052-856074b5-b567-47b6-9720-22ea1649b6dc.png)
 
-**한국항공기세트**는 한국의 민간 항공기를 추가해주는 OpenTTD NewGRF입니다.  
+**한국 항공기 세트**는 한국의 민간 항공기를 추가해주는 OpenTTD NewGRF입니다.  
 게임 내 온라인 콘텐츠에서 다운로드하거나, [Github release 페이지](https://github.com/GBLINER/KoreanAirlinersSet/releases)에서 다운로드할 수 있습니다.
 
 ## 개발
