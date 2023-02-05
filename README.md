@@ -1,4 +1,4 @@
-# Korean Airliners Set 한국 항공기 세트
+# Korean Airliners Set
 
 ![KAS 소개](https://user-images.githubusercontent.com/85421764/172054052-856074b5-b567-47b6-9720-22ea1649b6dc.png)
 
