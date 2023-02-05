@@ -3,5 +3,5 @@ Based in Korean Airliners Set 1.2.1
 
 | Code | Author | Reference |
 |------|--------|-----------|
-| ``U100_by_TELK`` | [@telk5093](https://github.com/telk5093) | This is a sample row, this graphic is not used. |
+| ``B747_byCoconut`` | [@coconut](https://github.com/coconutkr) | This is a sample row, this graphic is not used. |
 
