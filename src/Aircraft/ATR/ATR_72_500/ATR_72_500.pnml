@@ -41,6 +41,7 @@ item(FEAT_AIRCRAFT, ATR_72_500, 7008){
         
         //Flags
         misc_flags:                  	bitmask(AIRCRAFT_FLAG_2CC);
+        sound_effect:                   SOUND_PLANE_TAKE_OFF;
         }
         
     graphics {
