@@ -2,7 +2,7 @@
 
 # GRF name and description
 STR_GRF_NAME                                        :Korean Airliners Set
-STR_GRF_NAME_WITH_VER                               :Korean Airliners Set 1.2.2
+STR_GRF_NAME_WITH_VER                               :Korean Airliners Set 1.3.0
 STR_GRF_DESC                                        :{BLACK}Korean Airliners Set adds Airliners of korea. This NewGRF has been modified based on the World Airliners Set.{}Most graphics originally from PikkaBirds AV8 Set or WAS.{}(Updated: {RECENT_UPDATED}){}{SILVER}+ Author: Coconut
 
 # Aircraft name
@@ -23,6 +23,7 @@ STR_DC_9_30_NAME                                    :[KAS] McDonnell Douglas DC-
 # Liveries
 STR_REFIT_LIVERY_Boeing_737_800_default             :(Manufacturers)
 STR_REFIT_LIVERY_Boeing_737_800_jeju                :(JEJUair)
+STR_REFIT_LIVERY_Boeing_737_800_jeju_old            :(JEJUair (Old))
 STR_REFIT_LIVERY_Boeing_737_800_tway                :(T'way Air)
 STR_REFIT_LIVERY_Boeing_737_800_jin                 :(JIN AIR)
 STR_REFIT_LIVERY_Boeing_737_800_korean              :(KOREAN AIR)

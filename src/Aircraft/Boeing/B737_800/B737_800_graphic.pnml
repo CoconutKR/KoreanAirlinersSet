@@ -90,6 +90,18 @@ alternative_sprites(set_B737_800_eastar, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "sr
 }
 
 /*--------------------------------------------------------------------
+8. 보잉 737-800 제주항공 구
+--------------------------------------------------------------------*/
+
+spriteset(set_B737_800_jeju_old, "src\Aircraft\Boeing\B737_800\B737_800.png"){
+    tp_B737_800(0, 0)
+}
+
+alternative_sprites(set_B737_800_jeju_old, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "src\Aircraft\Boeing\B737_800\B737_800_jeju_old.png"){
+    tp_B737_800(0, 0)
+}
+
+/*--------------------------------------------------------------------
 구매정보
 --------------------------------------------------------------------*/
 switch(FEAT_TRAINS, SELF, sw_B737_800_purchase, cargo_subtype) {

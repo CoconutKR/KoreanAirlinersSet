@@ -2,7 +2,7 @@
 
 # GRF name and description
 STR_GRF_NAME                                        :한국 항공기 세트
-STR_GRF_NAME_WITH_VER                               :한국 항공기 세트 1.2.2
+STR_GRF_NAME_WITH_VER                               :한국 항공기 세트 1.3.0
 STR_GRF_DESC                                        :{BLACK}한국 항공기 세트는 보잉, 에어버스 등 여러 가지의 한국 항공사의 항공기를 추가해줍니다. 이 NewGRF는 World Airliners Set을 기반으로 수정하여 제작되었습니다.{}(최근 업데이트: {RECENT_UPDATED}){}{SILVER}+ 제작: Coconut
 
 # Aircraft name
@@ -23,6 +23,7 @@ STR_DC_9_30_NAME                                    :[KAS] 맥도넬 더글라�
 # Liveries
 STR_REFIT_LIVERY_Boeing_737_800_default             :(제조사)
 STR_REFIT_LIVERY_Boeing_737_800_jeju                :(제주항공)
+STR_REFIT_LIVERY_Boeing_737_800_jeju_old            :(제주항공 (구))
 STR_REFIT_LIVERY_Boeing_737_800_tway                :(티웨이항공)
 STR_REFIT_LIVERY_Boeing_737_800_jin                 :(진에어)
 STR_REFIT_LIVERY_Boeing_737_800_korean              :(대한항공)
