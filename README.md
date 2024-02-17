@@ -5,12 +5,6 @@
 **한국 항공기 세트**는 한국의 민간 항공기를 추가해주는 OpenTTD NewGRF입니다.  
 게임 내 **온라인 콘텐츠 다운로드**에서 설치하거나, [Github release 페이지](https://github.com/GBLINER/KoreanAirlinersSet/releases)에서 다운로드할 수 있습니다.
 
-## 개발
-### 빌드하는 방법
-이 NewGRF를 빌드하려면 [NML](https://github.com/OpenTTD/nml)과 **Python 3**이 필요합니다.  
-터미널 쉘에서 ``make``를 실행하세요. Windows 환경이라면, 그 전에 명령 프롬포트를 열고 ``bash``를 입력하세요.  
-``make clean``을 입력하면 모든 생성된 파일이 초기화됩니다.
-
 ## 기여하신 분들
 모든 기여하신 분들의 이름은 [Contributors List](https://github.com/GBLINER/KoreanAirlinersSet/wiki/Contributors-List-%EA%B8%B0%EC%97%AC%EC%9E%90-%EB%AA%A9%EB%A1%9D)에서 볼 수 있습니다.
 ## 저작권 / License
