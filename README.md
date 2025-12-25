@@ -4,6 +4,7 @@
 
 **한국 항공기 세트**는 한국의 민간 항공기를 추가해주는 OpenTTD NewGRF입니다.  
 게임 내 **온라인 콘텐츠 다운로드**에서 설치하거나, [Github release 페이지](https://github.com/GBLINER/KoreanAirlinersSet/releases)에서 다운로드할 수 있습니다.
+현재 업데이트가 중단되어 있으며 [Advanced World Airliners Set](https://github.com/CoconutKR/AWAS)으로 확장하여 국제 협업 GRF으로 개발 중입니다.
 
 ## 기여하신 분들
 모든 기여하신 분들의 이름은 [Contributors List](https://github.com/GBLINER/KoreanAirlinersSet/wiki/Contributors-List-%EA%B8%B0%EC%97%AC%EC%9E%90-%EB%AA%A9%EB%A1%9D)에서 볼 수 있습니다.
